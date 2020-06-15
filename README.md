@@ -10,9 +10,14 @@ Project's goal is to train as simple as possible CNN (Convolutional Neural Netwo
 
 Project has been created as Jupyter notebook hosted by Google Colaboratory (or Colab for short). Colab allows you to write and execute Python in your browser with zero configuration required, free access to GPUs and easy sharing (more info [here](https://colab.research.google.com/notebooks/intro.ipynb)).
 
-To open project's notebook hit bellow button and then `Runtime -> Run All` (you must be logged in with a Google Account to continue):
-
+## Notebooks explanation
+* *Trash_Image_Classification.ipynb* - contains dataset uploading, image preprocessing, model creation, model training, making and verifying predictions. Finally, trained model is saved in HDF5 format (.h5).<br>
+To open this notebook hit bellow button and then `Runtime -> Run All` (you must be logged in with a Google Account to continue):<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Trash_Image_Classification.ipynb)
+
+* *Test_Trash_Image_Classification.ipynb* - created to test loading of the saved model and making predictions using this model.<br>
+To open this notebook hit bellow button and then `Runtime -> Run All` (you must be logged in with a Google Account to continue):<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Test_Trash_Image_Classification.ipynb)
 
 ## Dataset
 
