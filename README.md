@@ -1,3 +1,21 @@
+# Trash Image Classification
+## Overview
+Project's goal is to train as simple as possible CNN (Convolutional Neural Network) for classifying images of trash into one of the categories:
+* cardboard
+* glass
+* metal
+* paper
+* plastic
+* trash
+
+Project has been created as Jupyter notebook hosted by Google Colaboratory (or Colab for short). Colab allows you to write and execute Python in your browser with zero configuration required, free access to GPUs and easy sharing (more info [here](https://colab.research.google.com/notebooks/intro.ipynb)).
+
+To open project's notebook hit bellow button:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Trash_Image_Classification.ipynb)
+
+## Dataset
+
 Dataset comes from:
 https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
