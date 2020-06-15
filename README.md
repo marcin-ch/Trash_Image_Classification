@@ -19,8 +19,10 @@ To open this notebook hit bellow button and then `Runtime -> Run All` (you must 
 To open this notebook hit bellow button and then `Runtime -> Run All` (you must be logged in with a Google Account to continue):<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Test_Trash_Image_Classification.ipynb)
 
-## Dataset
+## Saved model
+* *trash_image_classification.h5* - achieved accuracy on training images is 88%, on testing images is 64%.
 
+## Dataset
 Dataset comes from:
 https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
