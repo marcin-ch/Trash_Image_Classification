@@ -1,6 +1,6 @@
 # Trash Image Classification
 ## Overview
-Project's goal is to train as simple as possible CNN (Convolutional Neural Network) for classifying images of trash into one of the categories:
+Project's goal is to train as simple as possible CNN (Convolutional Neural Network) for classifying images of trash (32x32) into one of the categories:
 * cardboard
 * glass
 * metal
