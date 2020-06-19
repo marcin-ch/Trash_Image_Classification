@@ -16,6 +16,7 @@ To open this notebook hit bellow button and then `Runtime -> Run All` (you must 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Trash_Image_Classification.ipynb)
 
 * *Test_Trash_Image_Classification.ipynb* - created to test loading of the saved model and making predictions using this model.<br>
+At start of the file you can define what images you would like to use to work with model ("TEST" or "VALIDATION"). Model has seen validation images neither during training nor testing.<br>
 To open this notebook hit bellow button and then `Runtime -> Run All` (you must be logged in with a Google Account to continue):<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcin-ch/Trash_Image_Classification/blob/master/Test_Trash_Image_Classification.ipynb)
 
