@@ -50,4 +50,5 @@ plastic | 386 | 96 | 482
 trash | 110 | 27 | 137
 ***total*** | ***2026*** | ***501*** | ***2527***
 
-4. Zipped and upload to Github as *dataset_trash.zip*
+4. Added *validation* folder with 20 images used neither training nor testing.
+5. Zipped and upload to Github as *dataset_trash.zip*
